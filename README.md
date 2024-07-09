@@ -1,7 +1,3 @@
-# Multimodal_Tuberculosis_Detection_CNN
-Private repository for a thesis project on multimodal tuberculosis detection using convolutional neural networks.
-
-
 # Multimodal Tuberculosis Detection using Convolutional Neural Networks
 
 ## Overview
