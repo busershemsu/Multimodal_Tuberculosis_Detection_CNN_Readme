@@ -4,18 +4,19 @@
 This repository contains the code and resources for my thesis project on multimodal tuberculosis detection using convolutional neural networks (CNNs). The project aims to improve the accuracy and efficiency of tuberculosis detection by combining various modalities such as X-ray images and symptom data.
 
 ## Project Structure
-- **Early Fusion**: Implementation details for early fusion approach.
-- **Joint Fusion**: Implementation details for joint fusion approach.
-- **Late Fusion**: Implementation details for late fusion approach.
-- **Symptom**: Data and code related to symptom analysis.
-- **Tuning**: Hyperparameter tuning scripts and results.
-- **X-ray Image**: Pre-processed and raw X-ray image data.
+
+## X-ray Image Preprocessing
+The `x-ray_image_preprocessing` file includes preprocessing steps applied to the X-ray images before feeding them into the CNN.
 
 ## Lung Segmentation
 The `lung_seg_xray_unet_model_saving` file contains the saved model for lung segmentation using U-Net.
 
-## X-ray Image Preprocessing
-The `x-ray_image_preprocessing` file includes preprocessing steps applied to the X-ray images before feeding them into the CNN.
+- **Symptom**: Data and code related to symptom analysis.
+- **X-ray Image**: Pre-processed and raw X-ray image data.
+- **Tuning**: Hyperparameter tuning scripts and results.
+- **Early Fusion**: Implementation details for early fusion approach.
+- **Joint Fusion**: Implementation details for joint fusion approach.
+- **Late Fusion**: Implementation details for late fusion approach.
 
 ## Contact Information
 This repository is private to protect the integrity and confidentiality of the research data. However, the README is publicly accessible to provide an overview of the project.
