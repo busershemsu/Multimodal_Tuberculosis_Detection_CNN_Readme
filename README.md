@@ -19,7 +19,7 @@ The `lung_seg_xray_unet_model_saving` file contains the saved model for lung seg
 - **Late Fusion**: Implementation details for late fusion approach.
 
 ## Contact Information
-This repository is private to protect the integrity and confidentiality of the research data. However, the README is publicly accessible to provide an overview of the project.
+The complete project is private to protect the integrity and confidentiality of the research data. However, the README is publicly accessible to provide an overview of the project.
 
 For more information about the implementation details or to request access to the full repository, please contact me at:
 
